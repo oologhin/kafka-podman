@@ -4,5 +4,8 @@
 Deploy simple kafka cluster to produce and consume message
 
 ##Container
-podman
+podman 
+
+##Access
+localhost on 9092
 
